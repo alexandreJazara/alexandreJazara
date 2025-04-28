@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandreJazara
-- 👀 I’m interested in PHP, jQuery, javascript, SQL, Android, iOS and others things for websites
+- 👀 I’m interested in DART, FLUTTER, HTML, PHP, jQuery, javascript, SQL, Android, iOS and others things for websites
 - 🌱 I’m currently learning English, Spanish, AS, xCode and developer WP plugins
 - 💞️ I’m looking to collaborate on basics questions for web solutions
 - 📫 How to reach me alexandrejazara@gmail.com
